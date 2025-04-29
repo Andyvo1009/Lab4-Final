@@ -1,5 +1,6 @@
 # Logistic Regression model for predicting the type of cancer (Malignant or Benign)
 This is a short description about how to run this project
+
 Run file stream_cancer_data.py to stream data
 ![image](https://github.com/user-attachments/assets/ff629a81-544f-4954-b024-9a8dd5503ba1)
 
